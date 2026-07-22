@@ -1,4 +1,4 @@
 {
-  "db_url": "libsql://game-xlfengye.aws-ap-northeast-1.turso.io",
+  "db_url": "https://game-xlfengye.aws-ap-northeast-1.turso.io/v2/pipeline",
   "auth_token": "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3ODQ2ODQ3NjYsImlkIjoiMDE5Zjg3N2YtZTYwMS03Yjk3LTkwYzEtYjExODRmZTI3MGQ0Iiwia2lkIjoiNjN6Tm9qSXBYSEFNdGRJdTBfWFRUZUlNd19menFaVFVVcXVENWJUNGNvWSIsInJpZCI6IjAyMzI1YTc0LTlmMTMtNGYzYy05Y2QwLTkzMmJmZmQwY2ViNyJ9.TApDEvjJZZQYud6f-oqrU4TX0LkD554qVL9CZMGZnetqCTx1DWs3LP9yqLhtS8oyj6IQlkTRqnl6WdWOw86PBw"
 }
