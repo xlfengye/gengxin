@@ -1,5 +1,5 @@
 {
   "db_url": "libsql://game-diandian.aws-ap-northeast-1.turso.io",
   "auth_token": "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicm8iLCJpYXQiOjE3OTMzNzMzNTQsImlkIjoiMDE5ZmE4MGUtODgwMS03Njk0LTliNjItYmZiYWI4OWQ1ZjA3Iiwia2lkIjoiLUxJTmdyTzBTOGZfblE4dlQwRU9oNlZVdzNJc2VHS3hRTGE4YWM0djZTQSIsInJpZCI6IjJlZjc4NWYyLTlhMTktNGEzNC1iYjhmLWE1OGM2ZDlkNzY2OSJ9.D88jK3nufrEVZKPNjsCr8hk4xtmeyR24qI0WQFx86KPQWIhww0xQ3SNwyoRFH1pC0QTcaz5twKji61KVWu8dCQ",
-  "valid_db_hint": "game-xlfengye"
+  "valid_db_hint": "game-diandian"
 }
